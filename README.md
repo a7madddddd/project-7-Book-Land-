@@ -36,5 +36,5 @@ This project is a fully-functional e-commerce web application developed using:
 
 Before running the project, ensure you have the following installed:
 - **.NET Core SDK**: Version 6.0 or higher
-- **Node.js & npm**: For managing frontend packages and build tools
+- **Java Script & npm**: For managing frontend packages and build tools
 - **SQL Server**: To manage the database
